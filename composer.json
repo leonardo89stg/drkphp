@@ -20,6 +20,6 @@
         "psr-4": {
             "models\\": "vendor/drkphp/stock/Dash"
         }
-    },
+    }
     
 }
