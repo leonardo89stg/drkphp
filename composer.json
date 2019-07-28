@@ -1,5 +1,5 @@
 {
-    "name": "dash/stock",
+    "name": "drkphp/stock",
     "description": "Library of  PDf to PHP",
     "type": "library",
     "require": {
