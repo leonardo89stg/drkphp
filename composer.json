@@ -20,7 +20,7 @@
 
 "autoload": {
         "psr-4": {
-            "models\\": "Dash/"
+            "models\\": "drkphp/stock/Dash"
         }
     },
     
