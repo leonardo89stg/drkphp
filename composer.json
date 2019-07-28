@@ -3,10 +3,12 @@
     "description": "Library of  PDf to PHP",
     "type": "library",
     "require": {
-        "php": ">=5.2.0"
-      
+        "php": ">=5.2.0",
+       
     },
-   
+    "require-dev": {
+        
+    },
     "license": "MIT",
     "authors": [
         {
@@ -18,8 +20,12 @@
 
 "autoload": {
         "psr-4": {
-            "models\\": "/Dash/"
+            "run\\": "/Dash/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "master": "1.0"
         }
     }
-    
 }
