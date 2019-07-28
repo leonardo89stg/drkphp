@@ -3,8 +3,7 @@
     "description": "Library of  PDf to PHP",
     "type": "library",
     "require": {
-        "php": ">=5.2.0",
-       
+        "php": ">=5.2.0"
     },
     "require-dev": {
         
