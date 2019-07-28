@@ -22,9 +22,5 @@
             "run\\": "/Dash/"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "master": "1.0"
-        }
-    }
+   
 }
